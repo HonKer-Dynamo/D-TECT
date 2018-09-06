@@ -1,2 +1,0 @@
-Usage
-python d-tect.py
