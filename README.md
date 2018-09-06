@@ -1,7 +1,6 @@
 # D-TECT
 D-TECT - Pentest the Modern Web
 
-Author: [Feroz Omer] (https://facebook.com/fer0zomer)
 
 Disclaimer: I am not responsible for any damage done using this tool. This tool should only be used for educational purposes and for penetration testing.
 
@@ -34,37 +33,37 @@ python d-tect.py
 #Screenshots:
 
 ###Menu:
-![Menu](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/menu.png)
+![Menu](https://raw.githubusercontent.com/HonKer-Dynamo/D-TECT/master/Screenshots/menu.png)
 
 ###Banner Grabbing:
-![Banner Grabbing](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/banner.png)
+![Banner Grabbing](https://raw.githubusercontent.com/HonKer-Dynamo/D-TECT/master/Screenshots/banner.png)
 
 ###Click Jacking Detection:
-![Click Jacking](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/clickjacking.png)
+![Click Jacking](https://raw.githubusercontent.com/HonKer-Dynamo/D-TECT/master/Screenshots/clickjacking.png)
 
 ###Port Scanner:
-![Port Scanner](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/portscan.png)
+![Port Scanner](https://raw.githubusercontent.com/HonKer-Dynamo/D-TECT/master/Screenshots/portscan.png)
 
 ###WP Backup Grabber:
-![WP Backup Grabber](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/backup.png)
+![WP Backup Grabber](https://raw.githubusercontent.com/HonKer-Dynamo/D-TECT/master/Screenshots/backup.png)
 
 ###Sensitive File Detection:
-![File Detection](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/filedetection.png)
+![File Detection](https://raw.githubusercontent.com/HonKer-Dynamo/D-TECT/master/Screenshots/filedetection.png)
 
 ###Cross-Site Scripting [ XSS ] Scanner:
-![XSS Scanner](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/xss.png)
+![XSS Scanner](https://raw.githubusercontent.com/HonKer-Dynamo/D-TECT/master/Screenshots/xss.png)
 
 ###SQL Injection [ SQLI ] Scanner:
-![SQLI Scanner](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/sqli.png)
+![SQLI Scanner](https://raw.githubusercontent.com/HonKer-Dynamo/D-TECT/master/Screenshots/sqli.png)
 
 ###Sub-domain Scanner:
-![Sub-Domain Scanner](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/subdomain.png)
+![Sub-Domain Scanner](https://raw.githubusercontent.com/HonKer-Dynamo/D-TECT/master/Screenshots/subdomain.png)
 
 ###WP Username Enumeration:
-![WP Username Enumeration](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/usernameenumeration.png)
+![WP Username Enumeration](https://raw.githubusercontent.com/HonKer-Dynamo/D-TECT/master/Screenshots/usernameenumeration.png)
 
 ###Same Site Scripting detection:
-![Same-Site Scripting](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/samesitescripting.jpeg)
+![Same-Site Scripting](https://raw.githubusercontent.com/HonKer-Dynamo/D-TECT/master/Screenshots/samesitescripting.jpeg)
 
 # Special Thanks To:
 * Curt Smith
